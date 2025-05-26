@@ -1,0 +1,19 @@
+2023-08-07 11:40:16,436 INFO o.a.j.u.JMeterUtils: Setting Locale to en_EN
+2023-08-07 11:40:16,446 INFO o.a.j.JMeter: Loading user properties from: user.properties
+2023-08-07 11:40:16,447 INFO o.a.j.JMeter: Loading system properties from: system.properties
+2023-08-07 11:40:16,454 INFO o.a.j.JMeter: Copyright (c) 1998-2022 The Apache Software Foundation
+2023-08-07 11:40:16,455 INFO o.a.j.JMeter: Version 5.5
+2023-08-07 11:40:16,455 INFO o.a.j.JMeter: java.version=1.8.0_361
+2023-08-07 11:40:16,455 INFO o.a.j.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+2023-08-07 11:40:16,455 INFO o.a.j.JMeter: os.name=Windows 11
+2023-08-07 11:40:16,455 INFO o.a.j.JMeter: os.arch=amd64
+2023-08-07 11:40:16,455 INFO o.a.j.JMeter: os.version=10.0
+2023-08-07 11:40:16,455 INFO o.a.j.JMeter: file.encoding=Cp1254
+2023-08-07 11:40:16,455 INFO o.a.j.JMeter: java.awt.headless=true
+2023-08-07 11:40:16,455 INFO o.a.j.JMeter: Max memory     =1073741824
+2023-08-07 11:40:16,455 INFO o.a.j.JMeter: Available Processors =20
+2023-08-07 11:40:16,458 INFO o.a.j.JMeter: Default Locale=English (EN)
+2023-08-07 11:40:16,458 INFO o.a.j.JMeter: JMeter  Locale=English (EN)
+2023-08-07 11:40:16,458 INFO o.a.j.JMeter: JMeterHome=C:\Users\hilmi.ozcelik\Desktop\apache-jmeter-5.5
+2023-08-07 11:40:16,458 INFO o.a.j.JMeter: user.dir  =C:\Users\hilmi.ozcelik\Desktop\apache-jmeter-5.5\bin
+2023-08-07 11:40:16,458 INFO o.a.j.JMeter: PWD       =C:\Users\hilmi.ozcelik\Desktop\apache-jmeter-5.5\bin

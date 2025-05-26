@@ -1,0 +1,22 @@
+2024-09-06 14:35:44,290 INFO o.a.j.u.JMeterUtils: Setting Locale to en_EN
+2024-09-06 14:35:44,298 INFO o.a.j.JMeter: Loading user properties from: user.properties
+2024-09-06 14:35:44,299 INFO o.a.j.JMeter: Loading system properties from: system.properties
+2024-09-06 14:35:44,304 INFO o.a.j.JMeter: Copyright (c) 1998-2022 The Apache Software Foundation
+2024-09-06 14:35:44,304 INFO o.a.j.JMeter: Version 5.5
+2024-09-06 14:35:44,304 INFO o.a.j.JMeter: java.version=1.8.0_401
+2024-09-06 14:35:44,304 INFO o.a.j.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+2024-09-06 14:35:44,304 INFO o.a.j.JMeter: os.name=Windows 11
+2024-09-06 14:35:44,304 INFO o.a.j.JMeter: os.arch=amd64
+2024-09-06 14:35:44,304 INFO o.a.j.JMeter: os.version=10.0
+2024-09-06 14:35:44,304 INFO o.a.j.JMeter: file.encoding=Cp1254
+2024-09-06 14:35:44,304 INFO o.a.j.JMeter: java.awt.headless=null
+2024-09-06 14:35:44,304 INFO o.a.j.JMeter: Max memory     =1073741824
+2024-09-06 14:35:44,304 INFO o.a.j.JMeter: Available Processors =20
+2024-09-06 14:35:44,307 INFO o.a.j.JMeter: Default Locale=English (EN)
+2024-09-06 14:35:44,307 INFO o.a.j.JMeter: JMeter  Locale=English (EN)
+2024-09-06 14:35:44,307 INFO o.a.j.JMeter: JMeterHome=C:\Users\hilmi.ozcelik\Desktop\apache-jmeter-5.5
+2024-09-06 14:35:44,307 INFO o.a.j.JMeter: user.dir  =C:\Users\hilmi.ozcelik\Desktop\apache-jmeter-5.5\bin
+2024-09-06 14:35:44,307 INFO o.a.j.JMeter: PWD       =C:\Users\hilmi.ozcelik\Desktop\apache-jmeter-5.5\bin
+2024-09-06 14:35:44,308 INFO o.a.j.JMeter: IP: 192.168.10.172 Name: ARK-LAPTOP-17 FullName: ARK-LAPTOP-17.arksigner.com
+2024-09-06 14:35:44,319 INFO o.a.j.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties
+2024-09-06 14:35:44,414 INFO o.a.j.JMeterGuiLauncher: Setting LAF to: com.github.weisj.darklaf.DarkLaf:com.github.weisj.darklaf.theme.DarculaTheme

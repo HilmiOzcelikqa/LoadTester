@@ -1,0 +1,6 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1690455163442,288,ZDAPI,200,OK,Thread Group 1-2,text,false,Test failed: text expected to contain /true/,287,599,3,3,https://zdservice-test.arksigner.com/api/Timestamp/Stamp,288,0,75
+1690455163250,587,ZDAPI,200,OK,Thread Group 1-1,text,true,,5686,599,2,2,https://zdservice-test.arksigner.com/api/Timestamp/Stamp,587,0,76
+1690455163849,228,ZDAPI,200,OK,Thread Group 1-4,text,false,Test failed: text expected to contain /true/,287,599,3,3,https://zdservice-test.arksigner.com/api/Timestamp/Stamp,228,0,75
+1690455163646,505,ZDAPI,200,OK,Thread Group 1-3,text,true,,5686,599,2,2,https://zdservice-test.arksigner.com/api/Timestamp/Stamp,505,0,75
+1690455164054,452,ZDAPI,200,OK,Thread Group 1-5,text,true,,5686,599,1,1,https://zdservice-test.arksigner.com/api/Timestamp/Stamp,452,0,74

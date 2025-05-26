@@ -1,0 +1,4 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1690525886267,471,ZDAPI,200,OK,Thread Group 1-1,text,true,,5686,599,2,2,https://zdservice-test.arksigner.com/api/Timestamp/Stamp,471,0,87
+1690525886601,464,ZDAPI,200,OK,Thread Group 1-2,text,true,,5686,599,2,2,https://zdservice-test.arksigner.com/api/Timestamp/Stamp,464,0,85
+1690525886933,485,ZDAPI,200,OK,Thread Group 1-3,text,true,,5686,599,1,1,https://zdservice-test.arksigner.com/api/Timestamp/Stamp,485,0,85
